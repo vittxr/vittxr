@@ -1,6 +1,6 @@
 ### Olá! Sou o Vitor, sou estudante de programação e amante pela cultura geek nas horas vagas.
 
-- 🌱 I’m currently learning HTML, JavaScript, CSS, Python, mysql, e flutter
+- 🌱 I’m currently learning HTML, JavaScript, CSS, Python, mysql, and flutter
 - 📫 Discord: vit#6168
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like animes, games, books, music, etc. 
