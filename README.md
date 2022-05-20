@@ -1,4 +1,4 @@
-### Olá! Sou o Vitor, sou estudante de programação e amante pela cultura geek nas horas vagas.
+### Olá! Me chamo Vitor, sou estudante de programação e amante pela cultura geek nas horas vagas B).
 
 - 🌱 I’m currently learning HTML, JavaScript, CSS, Python, mysql, and flutter
 - 📫 Discord: vit#6168
