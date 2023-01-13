@@ -1,6 +1,6 @@
 ### Olá! Me chamo Vitor, sou estudante de programação e amante da cultura geek nas horas vagas B).
 
-- 🌱 I’m currently learning HTML, JavaScript, CSS, Python, MySql, SQL Server, PHP, Flask and Symfony
+- 🌱 I’m currently learning HTML, JavaScript, CSS, React, Python, MySql and Flask
 - 📫 Discord: vit#6168
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like animes, games, books, music, etc. 
