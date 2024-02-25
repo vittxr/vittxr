@@ -1,4 +1,4 @@
-- 🌱 I am currently working with fullstack websites, utilizing React on the front end, Python frameworks (Flask and FastAPI) on the backend, and MySQL for the database.
+- 🌱 I am currently working with fullstack websites, using React on the front end, Python frameworks (Flask and FastAPI) on the backend, and MySQL/MariaDB for the database.
 - 📫 Discord: vit#6168
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like animes, games, books, music, etc. 
