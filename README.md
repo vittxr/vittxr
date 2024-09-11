@@ -73,6 +73,8 @@ TODO: associate links to the tools
   - AG Grid
   - MUIDatatables
   - Datatables.net
+- State management:
+  - Zustand 
 - Others:
   - typescript
   - javascript
