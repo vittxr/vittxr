@@ -1,6 +1,6 @@
 # Vitor Schirmer
 
-> [GitHub @vittxr :octocat:](https://github.com/vittxr)  
+> [GitHub @vittxr](https://github.com/vittxr)  
 > [LinkedIn @vschirmer](https://linkedin.com/in/vschirmer)  
 
 ---
