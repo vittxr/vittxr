@@ -74,7 +74,10 @@ TODO: associate links to the tools
   - MUIDatatables
   - Datatables.net
 - State management:
-  - Zustand 
+  - Zustand
+- Conditional classes:
+  - clsx
+  - classnames 
 - Others:
   - typescript
   - javascript
