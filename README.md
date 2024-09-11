@@ -86,6 +86,8 @@ TODO: associate links to the tools
   - Recharts
 - Drag and drop
   - react-beautiful-dnd
+- Toast: 
+  - react-toastify
 - Others:
   - typescript
   - javascript
