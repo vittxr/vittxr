@@ -78,6 +78,14 @@ TODO: associate links to the tools
 - Conditional classes:
   - clsx
   - classnames 
+- File upload
+  - Filepond
+- Dates: 
+  - DayJS
+- Charts: 
+  - Recharts
+- Drag and drop
+  - react-beautiful-dnd
 - Others:
   - typescript
   - javascript
@@ -98,6 +106,8 @@ TODO: associate links to the tools
   - Pydantic
 - SSR (Server Side Rendering):
   - Jinja2
+- Database migration:
+  - Alembic
 
 ### Databases
 
