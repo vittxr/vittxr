@@ -49,8 +49,6 @@ under dev
 
 ## Tools
 
-TODO: associate links to the tools
-
 ### Frontend
 
 - Framework:
@@ -134,11 +132,12 @@ TODO: associate links to the tools
 - Firewall:
   - UFW
  
----
-
 ### Others
 
-- Git/Github
+- Versioning: Git/Github
+- APM: Sentry
+
+---
 
 ## Projects
 
