@@ -65,9 +65,9 @@ under dev
   - Yup
 - Requests
   - Axios
-  - ReactQuery
+  - tanstack/ReactQuery
 - Table:
-  - Tanstack table
+  - tanstack/table
   - AG Grid
   - MUIDatatables
   - Datatables.net
@@ -84,6 +84,9 @@ under dev
   - Recharts
 - Drag and drop
   - react-beautiful-dnd
+- Router:
+  - tanstack/react-router
+  - react-router-dom
 - Toast: 
   - react-toastify
 - Others:
