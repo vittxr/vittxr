@@ -41,10 +41,6 @@ Universidade Tuiuti do Paraná - Paraná, Brazil
 
 **Feb 2023 - Aug 2025**
 
-**Coursework:**
-
-under dev
-
 ---
 
 ## Tools
@@ -139,15 +135,3 @@ under dev
 
 - Versioning: Git/Github
 - APM: Sentry
-
----
-
-## Projects
-
-under dev
-
----
-
-## Extra-Curriculars
-
-under dev
