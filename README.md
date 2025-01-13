@@ -66,7 +66,7 @@ Universidade Tuiuti do Paraná - Paraná, Brazil
 ### Backend
 
 - Frameworks: FastAPI, Flask
-- ORM: SQL Alchemy
+- ORM: SQL Alchemy, SQLModel
 - SQL Drivers: PyMySQL, mysql-connector-python
 - validation: Pydantic
 - Database migration: Alembic, Flask-Migrate
