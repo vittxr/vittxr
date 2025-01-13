@@ -74,6 +74,7 @@ Universidade Tuiuti do Paraná - Paraná, Brazil
 ### Databases
 
 - MySQL/MariaDB
+- PostgreSQL
 - MongoDB
 - SQLite
 
