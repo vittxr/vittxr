@@ -46,3 +46,5 @@ Universidade Tuiuti do Paraná - Paraná, Brazil
 ## Tools
 
 You can check all tools that I use [here](https://github.com/vittxr/mytools)
+
+![](https://komarev.com/ghpvc/?username=vittxr&color=blueviolet)
