@@ -1,7 +1,14 @@
 # Vitor Schirmer
 
-> [GitHub @vittxr](https://github.com/vittxr)  
-> [LinkedIn @vschirmer](https://linkedin.com/in/vschirmer)  
+> [LinkedIn @vschirmer](https://linkedin.com/in/vschirmer)
+
+> [Portfolio](vitvitvit.com.br)
+
+> [TryHackMe @vitxr](https://tryhackme.com/r/p/vitxr)
+
+> [LeetCode @vitxr](https://leetcode.com/u/vitxr/)
+
+> [StackOverflow @vitxr](https://stackoverflow.com/users/18432809/vitxr)
 
 ---
 
