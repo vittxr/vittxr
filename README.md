@@ -2,7 +2,7 @@
 
 > [LinkedIn @vschirmer](https://linkedin.com/in/vschirmer)
 
-> [Portfolio](vitvitvit.com.br)
+> [Portfolio](https://vitvitvit.com.br)
 
 > [TryHackMe @vitxr](https://tryhackme.com/r/p/vitxr)
 
