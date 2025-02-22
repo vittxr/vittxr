@@ -52,6 +52,26 @@ Universidade Tuiuti do Paraná - Paraná, Brazil
 
 ## Tools
 
+### Frontend
+
+- [React](https://github.com/facebook/react), [Svelte](https://github.com/sveltejs/svelte), [Tailwind](https://github.com/tailwindlabs/tailwindcss), [Bootstrap](https://github.com/twbs/bootstrap),  [Shadcn/ui](https://github.com/shadcn/ui), [Tailwind Headlessui](https://github.com/tailwindlabs/headlessui)
+
+### Mobile
+
+- [Expo](https://github.com/expo/expo), [React Native](https://github.com/facebook/react-native), [Nativewind](https://github.com/nativewind/nativewind)
+
+### Backend
+
+- [FastAPI](https://github.com/tiangolo/fastapi), [Flask](https://github.com/pallets/flask), [Laravel](https://github.com/laravel/laravel)
+ 
+### Databases
+
+- [MySQL/MariaDB](https://github.com/mysql/mysql-server), [PostgreSQL](https://github.com/postgres/postgres), [MongoDB](https://github.com/mongodb/mongo), [SQLite](https://sqlite.org/index.html)  
+
+### Cloud
+
+- [GCP (Google Cloud Platform)](https://cloud.google.com/), [DigitalOcean](https://github.com/digitalocean), [Heroku](https://github.com/heroku)  
+
 You can check all tools that I use [here](https://github.com/vittxr/mytools)
 
 ![](https://komarev.com/ghpvc/?username=vittxr&color=blueviolet)
