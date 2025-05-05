@@ -54,7 +54,7 @@ Universidade Tuiuti do Paraná - Paraná, Brazil
 
 ### Frontend
 
-- [React](https://github.com/facebook/react), [Svelte](https://github.com/sveltejs/svelte), [Tailwind](https://github.com/tailwindlabs/tailwindcss), [Bootstrap](https://github.com/twbs/bootstrap),  [Shadcn/ui](https://github.com/shadcn/ui), [Tailwind Headlessui](https://github.com/tailwindlabs/headlessui)
+- [React](https://github.com/facebook/react), [Svelte](https://github.com/sveltejs/svelte), [Tailwind](https://github.com/tailwindlabs/tailwindcss), [Bootstrap](https://github.com/twbs/bootstrap), [Shadcn/ui](https://github.com/shadcn/ui), [Tailwind Headlessui](https://github.com/tailwindlabs/headlessui), [DaisyUI](https://daisyui.com/)
 
 ### Mobile
 
@@ -62,7 +62,7 @@ Universidade Tuiuti do Paraná - Paraná, Brazil
 
 ### Backend
 
-- [FastAPI](https://github.com/tiangolo/fastapi), [Flask](https://github.com/pallets/flask), [Laravel](https://github.com/laravel/laravel)
+- [FastAPI](https://github.com/tiangolo/fastapi), [Flask](https://github.com/pallets/flask), [Laravel](https://github.com/laravel/laravel), [Express.js](https://github.com/expressjs/express)
  
 ### Databases
 
@@ -70,7 +70,7 @@ Universidade Tuiuti do Paraná - Paraná, Brazil
 
 ### Cloud
 
-- [GCP (Google Cloud Platform)](https://cloud.google.com/), [DigitalOcean](https://github.com/digitalocean), [Heroku](https://github.com/heroku)  
+- [GCP (Google Cloud Platform)](https://cloud.google.com/), [DigitalOcean](https://github.com/digitalocean), [Heroku](https://github.com/heroku), [Hostinger](https://www.hostinger.com/)
 
 You can check all tools that I use [here](https://github.com/vittxr/mytools)
 
